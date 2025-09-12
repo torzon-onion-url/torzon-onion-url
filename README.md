@@ -4,11 +4,11 @@
 
 ## Finding the TorZon Onion URL
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion
 
-[<img src="/images/pause.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/images/pause.webp" width="200">](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/images/background.webp" alt="TorZon Onion URL" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/images/background.webp" alt="TorZon Onion URL" style="max-width: 100%;"></a>
 
 This resource provides educational information about the darkweb. We neither endorse nor support illegal activities.
 
@@ -46,4 +46,6 @@ This is for educational purposes only. We do not encourage any illegal acts.
 
 
 
-Update:  23 August 2025
+
+
+Update:  09/12/2025 Fixed broken url
